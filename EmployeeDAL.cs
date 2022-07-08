@@ -16,7 +16,7 @@ namespace DAL
 	//comd.ExecuteScalar :::::::::::::for Aggrdate functions with SELECT
 	//comd.ExecuteNonQuery:::::::::::::for DML  (insert, update or delete command)
 	//comd.ExecuteReader::::::::::::::::for SQL (Select command)
-
+// sumit patil
 	//Helper class
 	public class EmployeeDAL
 	{
