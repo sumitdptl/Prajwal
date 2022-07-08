@@ -17,6 +17,7 @@ namespace DAL
 	//comd.ExecuteNonQuery:::::::::::::for DML  (insert, update or delete command)
 	//comd.ExecuteReader::::::::::::::::for SQL (Select command)
 // sumit patil
+	// hello prajwal
 	//Helper class
 	public class EmployeeDAL
 	{
